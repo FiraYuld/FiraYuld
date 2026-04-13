@@ -45,3 +45,5 @@ React 19 · Vite · Python · aiogram · Telegram WebApp SDK
 Open to freelance projects and remote work opportunities.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@firayuld-2CA5E0?style=flat&logo=telegram)](https://t.me/firayuld)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-firuzyuldashev-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/firuzyuldashev)
+[![Email](https://img.shields.io/badge/Email-firayuldashev36@outlook.com-0078D4?style=flat&logo=microsoftoutlook)](mailto:firayuldashev36@outlook.com)
