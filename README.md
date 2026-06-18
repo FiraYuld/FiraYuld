@@ -1,49 +1,54 @@
 # Firuz Yuldashev
 
-**CS Student @ Sichuan University**
+Full-stack developer. I build production products end-to-end —
+from API integrations to deployment. AI-first workflow daily
+(Claude Code, Cursor, Gemini).
 
-Originally from Tajikistan. Building full-stack web apps and Telegram Mini Apps.
-
----
-
-## Tech Stack
-
-**Frontend**
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion` `shadcn/ui`
-
-**Backend**
-`Python` `aiogram` `Node.js`
-
-**Deployment**
-`Vercel` `Docker` `Amvera`
-
-**Also worked with**
-`Telegram Mini App SDK` `Fuse.js` `Yandex Metrika` `Linux` `Git`
+Currently studying Software Engineering @ Sichuan University, Chengdu.
+Open to remote contracts and freelance.
 
 ---
 
 ## Projects
 
-### [WhyBao](https://whybao.ru) — Chinese Fashion Marketplace
-E-commerce platform for trending Chinese streetwear with delivery to Russia.
-Next.js 16 · TypeScript · Tailwind CSS v4 · Zustand · Framer Motion · Docker · Telegram Bot API
+### [WhyBao](https://whybao.ru) — Cross-Border Fashion Marketplace
+E-commerce platform for Chinese streetwear with delivery to Russia.
+Built a webhook pipeline normalising two logistics provider APIs
+with different contracts and failure modes — zero manual interventions
+since launch.
+`Next.js 16` `TypeScript` `Tailwind CSS v4` `Docker` `Telegram Bot API`
+
+### [Avanturin](https://github.com/FiraYuld/avanturin) — Telegram Moderation Bot
+Configurable rule-based bot automating reaction moderation across
+linked Telegram chats. Auto-ban on repeated suspicious activity,
+full test coverage before each deployment.
+`Node.js` `TypeScript` `grammY` `Upstash Redis` `Vercel`
 
 ### [Sheep To Me](https://merch-ten-dusky.vercel.app) — Telegram Mini App Store
-Full-featured merch store inside Telegram: catalog, cart, promo codes, order history.
-React 19 · Vite · Python · aiogram · Telegram WebApp SDK
+Full-featured merch store inside Telegram: catalog, cart,
+promo codes, order history. Owned full cycle from requirements
+to production deployment.
+`React 19` `Vite` `Python` `aiogram` `Telegram WebApp SDK`
+
+---
+
+## Tech Stack
+
+**Frontend** — Next.js · React · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui
+
+**Backend** — Python · aiogram · Node.js · grammY · Upstash Redis
+
+**Deployment** — Vercel · Docker · Amvera
+
+**AI Workflow** — Claude Code · Cursor · Gemini
 
 ---
 
 ## Languages
 
-🇬🇧 English · 🇷🇺 Russian · 🇹🇯 Tajik · 🇨🇳 Chinese (learning)
+🇬🇧 English · 🇷🇺 Russian · 🇹🇯 Tajik · 🇨🇳 Chinese (HSK2)
 
 ---
 
-## Contact
-
-Open to freelance projects and remote work opportunities.
-
-[![Telegram](https://img.shields.io/badge/Telegram-@firayuld-2CA5E0?style=flat&logo=telegram)](https://t.me/firayuld)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-firuzyuldashev-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/firuzyuldashev)
-[![Email](https://img.shields.io/badge/Email-firayuldashev36@outlook.com-0078D4?style=flat&logo=microsoftoutlook)](mailto:firayuldashev36@outlook.com)
+[![Telegram](https://img.shields.io/badge/Telegram-t.me/firayuld-2CA5E0?style=flat&logo=telegram)](https://t.me/firayuld)
+[![Email](https://img.shields.io/badge/Email-fyuldashev36@outlook.com-0078D4?style=flat&logo=microsoftoutlook)](mailto:fyuldashev36@outlook.com)
