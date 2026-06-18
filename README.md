@@ -18,7 +18,7 @@ with different contracts and failure modes — zero manual interventions
 since launch.
 `Next.js 16` `TypeScript` `Tailwind CSS v4` `Docker` `Telegram Bot API`
 
-### [Avanturin](https://github.com/FiraYuld/avanturin) — Telegram Moderation Bot
+### [Avanturin](https://github.com/FiraYuld/aventurine_bot) — Telegram Moderation Bot
 Configurable rule-based bot automating reaction moderation across
 linked Telegram chats. Auto-ban on repeated suspicious activity,
 full test coverage before each deployment.
