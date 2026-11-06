@@ -1,52 +1,55 @@
 # Firuz Yuldashev
 
-Full-stack developer. I build production products end-to-end —
-from API integrations to deployment. AI-first workflow daily
-(Claude Code, Cursor, Gemini).
+Full-stack developer. I build products end-to-end — from API integrations
+and bots to deployment. AI-first workflow daily (Claude Code, Codex).
 
-Currently studying Software Engineering @ Sichuan University, Chengdu.
+Studying Software Engineering @ Sichuan University, Chengdu.
 Open to remote contracts and freelance.
 
 ---
 
 ## Projects
 
-### [WhyBao](https://whybao.ru) — Cross-Border Fashion Marketplace
-E-commerce platform for Chinese streetwear with delivery to Russia.
-Built a webhook pipeline normalising two logistics provider APIs
-with different contracts and failure modes — zero manual interventions
-since launch.
-`Next.js 16` `TypeScript` `Tailwind CSS v4` `Docker` `Telegram Bot API`
-
 ### [Avanturin](https://github.com/FiraYuld/aventurine_bot) — Telegram Moderation Bot
-Configurable rule-based bot automating reaction moderation across
-linked Telegram chats. Auto-ban on repeated suspicious activity,
-full test coverage before each deployment.
+Open-source, configurable bot that moderates reactions in channel-linked
+discussion groups: flags non-subscribers, routes decisions to a moderator
+inbox, auto-bans on repeated strikes.
 `Node.js` `TypeScript` `grammY` `Upstash Redis` `Vercel`
 
-### [Sheep To Me](https://merch-ten-dusky.vercel.app) — Telegram Mini App Store
-Full-featured merch store inside Telegram: catalog, cart,
-promo codes, order history. Owned full cycle from requirements
-to production deployment.
-`React 19` `Vite` `Python` `aiogram` `Telegram WebApp SDK`
+### Postupalkin — Telegram Bot for Applicants *(private)*
+Assistant bot for applicants to Chinese universities.
+`Python 3.12` `aiogram 3` `FastAPI` `Upstash Redis` `Vercel`
+
+### HSR Draft — Tournament Draft Platform *(private)*
+Web platform for running draft-based tournaments: brackets, admin panel,
+OAuth sign-in, Excel export, backend and Playwright E2E test suites.
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Upstash Redis` `Playwright`
+
+### MoneyTracker — Telegram Expense Tracker *(private)*
+Expense tracking in Telegram: bot plus Mini App with a typed database layer.
+`Next.js 16` `grammY` `Drizzle ORM` `libSQL` `Zod` `Vitest`
 
 ---
 
 ## Tech Stack
 
-**Frontend** — Next.js · React · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui
+**Frontend** — Next.js · React · TypeScript · Tailwind CSS
 
-**Backend** — Python · aiogram · Node.js · grammY · Upstash Redis
+**Backend** — Node.js · Python · FastAPI · grammY · aiogram
 
-**Deployment** — Vercel · Docker · Amvera
+**Data** — Upstash Redis · libSQL · Drizzle ORM
 
-**AI Workflow** — Claude Code · Cursor · Gemini
+**Testing** — Vitest · Playwright · node:test
+
+**Deployment** — Vercel · Docker
+
+**AI Workflow** — Claude Code · Codex
 
 ---
 
 ## Languages
 
-🇬🇧 English · 🇷🇺 Russian · 🇹🇯 Tajik · 🇨🇳 Chinese (HSK2)
+🇬🇧 English · 🇷🇺 Russian · 🇹🇯 Tajik · 🇨🇳 Chinese (HSK 3, in progress)
 
 ---
 
