@@ -25,10 +25,6 @@ Web platform for running draft-based tournaments: brackets, admin panel,
 OAuth sign-in, Excel export, backend and Playwright E2E test suites.
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Upstash Redis` `Playwright`
 
-### MoneyTracker — Telegram Expense Tracker *(private)*
-Expense tracking in Telegram: bot plus Mini App with a typed database layer.
-`Next.js 16` `grammY` `Drizzle ORM` `libSQL` `Zod` `Vitest`
-
 ---
 
 ## Tech Stack
@@ -37,9 +33,9 @@ Expense tracking in Telegram: bot plus Mini App with a typed database layer.
 
 **Backend** — Node.js · Python · FastAPI · grammY · aiogram
 
-**Data** — Upstash Redis · libSQL · Drizzle ORM
+**Data** — Upstash Redis
 
-**Testing** — Vitest · Playwright · node:test
+**Testing** — Playwright · node:test
 
 **Deployment** — Vercel · Docker
 
@@ -49,7 +45,7 @@ Expense tracking in Telegram: bot plus Mini App with a typed database layer.
 
 ## Languages
 
-🇬🇧 English · 🇷🇺 Russian · 🇹🇯 Tajik · 🇨🇳 Chinese (HSK 3, in progress)
+🇬🇧 English · 🇷🇺 Russian · 🇹🇯 Tajik · 🇨🇳 Chinese (HSK 2)
 
 ---
 
